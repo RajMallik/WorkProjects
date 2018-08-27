@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_HUQ78Ei9EeiuzK-9O80uww" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_HUQ78Ui9EeiuzK-9O80uww" comment="" name="sendMailTo" prompt="sendMailTo?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_HUQ78ki9EeiuzK-9O80uww" comment="" name="sendMailFrom" prompt="sendMailFrom?" promptNeeded="false" type="id_String" value="contributions@TalendFramework.com"/>
+  <contextParameter xmi:id="_HUQ780i9EeiuzK-9O80uww" comment="" name="sendMailSendername" prompt="sendMailSendername?" promptNeeded="false" type="id_String" value="Talend Framework"/>
+  <contextParameter xmi:id="_HUQ79Ei9EeiuzK-9O80uww" comment="" name="sendMailCc" prompt="sendMailCc?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_HUQ79Ui9EeiuzK-9O80uww" comment="" name="sendMailBcc" prompt="sendMailBcc?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_HUQ79ki9EeiuzK-9O80uww" comment="" name="sendMailSubject" prompt="sendMailSubject?" promptNeeded="false" type="id_String" value="You can send Email from the Talend Framework"/>
+  <contextParameter xmi:id="_HUQ790i9EeiuzK-9O80uww" comment="" name="sendMailMessage" prompt="sendMailMessage?" promptNeeded="false" type="id_String" value="You can send Email from the Talend Framework"/>
+  <contextParameter xmi:id="_HUQ7-Ei9EeiuzK-9O80uww" comment="" name="sendMailSMTPHost" prompt="sendMailSMTPHost?" promptNeeded="false" type="id_String" value="smtp.gmail.com"/>
+  <contextParameter xmi:id="_HUQ7-Ui9EeiuzK-9O80uww" comment="" name="sendMailSMTPPort" prompt="sendMailSMTPPort?" promptNeeded="false" type="id_String" value="465"/>
+  <contextParameter xmi:id="_HUQ7-ki9EeiuzK-9O80uww" comment="" name="sendMailUsername" prompt="sendMailUsername?" promptNeeded="false" type="id_String" value="TalendFramework@gmail.com"/>
+  <contextParameter xmi:id="_HUQ7-0i9EeiuzK-9O80uww" comment="" name="sendMailPassword" prompt="sendMailPassword?" promptNeeded="false" type="id_Password" value="9zHVDciwi+kZlZjkw/el0fpbec0hJ/q7"/>
+  <contextParameter xmi:id="_HUQ7_Ei9EeiuzK-9O80uww" comment="" name="sendMailAttachment" prompt="sendMailAttachment?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_HUQ7_Ui9EeiuzK-9O80uww" comment="" name="sendMailEncoding" prompt="sendMailEncoding?" promptNeeded="false" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_HUQ7_ki9EeiuzK-9O80uww" comment="" name="sendMailSSLSupport" prompt="sendMailSSLSupport?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_HUQ7_0i9EeiuzK-9O80uww" comment="" name="sendMailStartTLS" prompt="sendMailStartTLS?" promptNeeded="false" type="id_Boolean" value="false"/>
+</talendfile:ContextType>

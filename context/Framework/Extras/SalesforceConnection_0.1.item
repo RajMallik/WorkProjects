@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_HP7OgEi9EeiuzK-9O80uww" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_HP7OgUi9EeiuzK-9O80uww" comment="" name="salesforceBulk" prompt="salesforceBulk?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_HP7Ogki9EeiuzK-9O80uww" comment="" name="salesforceLoginType" prompt="salesforceLoginType?" promptNeeded="false" type="id_String" value="Basic"/>
+  <contextParameter xmi:id="_HP7Og0i9EeiuzK-9O80uww" comment="" name="salesforceWebServiceURL" prompt="salesforceWebServiceURL?" promptNeeded="false" type="id_String" value="https://login.salesforce.com/services/Soap/u/25.0"/>
+  <contextParameter xmi:id="_HP7OhEi9EeiuzK-9O80uww" comment="" name="salesforceUsername" prompt="salesforceUsername?" promptNeeded="false" type="id_String" value="youemail@yourcompany.com"/>
+  <contextParameter xmi:id="_HP7OhUi9EeiuzK-9O80uww" comment="" name="salesforcePassword" prompt="salesforcePassword?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter xmi:id="_HP7Ohki9EeiuzK-9O80uww" comment="" name="salesforceOAuth2ConsumerKey" prompt="salesforceOAuth2ConsumerKey?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_HP7Oh0i9EeiuzK-9O80uww" comment="" name="salesforceOAuth2ConsumerSecret" prompt="salesforceOAuth2ConsumerSecret?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter xmi:id="_HP7OiEi9EeiuzK-9O80uww" comment="" name="salesforceOAuth2CallBackHost" prompt="salesforceOAuth2CallBackHost?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_HP7OiUi9EeiuzK-9O80uww" comment="" name="salesforceOAuth2CallBackPort" prompt="salesforceOAuth2CallBackPort?" promptNeeded="false" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_HP7Oiki9EeiuzK-9O80uww" comment="" name="salesforceOAuth2" prompt="salesforceOAuth2?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_HP7Oi0i9EeiuzK-9O80uww" comment="" name="salesforceVersion" prompt="salesforceVersion?" promptNeeded="false" type="id_String" value="25.0"/>
+  <contextParameter xmi:id="_HP7OjEi9EeiuzK-9O80uww" comment="" name="salesforceUseSoapCompression" prompt="salesforceUseSoapCompression?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_HP7OjUi9EeiuzK-9O80uww" comment="" name="salesforceTimeoutMilliseconds" prompt="salesforceTimeoutMilliseconds?" promptNeeded="false" type="id_Integer" value="60000"/>
+  <contextParameter xmi:id="_HP7Ojki9EeiuzK-9O80uww" comment="" name="salesforceOutputHttpTraceMessage" prompt="salesforceOutputHttpTraceMessage?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_HP7Oj0i9EeiuzK-9O80uww" comment="" name="salesforceClientID" prompt="salesforceClientID?" promptNeeded="false" type="id_String" value="Talend"/>
+</talendfile:ContextType>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_HS300Ei9EeiuzK-9O80uww" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_HS300Ui9EeiuzK-9O80uww" comment="" name="libLoadCVMapFile" prompt="libLoadCVMapFile?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_HS300ki9EeiuzK-9O80uww" comment="" name="libLoadCVMapEncoding" prompt="libLoadCVMapEncoding?" promptNeeded="false" type="id_String" value="ISO-8859-15"/>
+  <contextParameter xmi:id="_HS3000i9EeiuzK-9O80uww" comment="" name="libLoadCVMapName" prompt="libLoadCVMapName?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_HS301Ei9EeiuzK-9O80uww" comment="" name="libLoadCVFile" prompt="libLoadCVFile?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_HS301Ui9EeiuzK-9O80uww" comment="" name="libLoadCVShowMappingTable" prompt="libLoadCVShowMappingTable?" promptNeeded="false" type="id_Boolean" value="false"/>
+  <contextParameter xmi:id="_HS301ki9EeiuzK-9O80uww" comment="" name="libLoadCVErrorOnEmptyMappingTable" prompt="libLoadCVErrorOnEmptyMappingTable?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_HS3010i9EeiuzK-9O80uww" comment="" name="libLoadCVSmartMatching" prompt="libLoadCVSmartMatching?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_HS302Ei9EeiuzK-9O80uww" comment="" name="libLoadCVErrorOnInvalidTarget" prompt="libLoadCVErrorOnInvalidTarget?" promptNeeded="false" type="id_Boolean" value="true"/>
+  <contextParameter xmi:id="_HS302Ui9EeiuzK-9O80uww" comment="" name="libLoadCVErrorOnDuplicateSource" prompt="libLoadCVErrorOnDuplicateSource?" promptNeeded="false" type="id_Boolean" value="false"/>
+</talendfile:ContextType>

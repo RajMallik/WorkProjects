@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_uPz5IFO2EeiS8esuz3T7Ug" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_uPz5IVO2EeiS8esuz3T7Ug" comment="" name="sqlCOLUMNS" prompt="sqlCOLUMNS?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_uPz5IlO2EeiS8esuz3T7Ug" comment="" name="sqlFROM" prompt="sqlFROM?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_uPz5I1O2EeiS8esuz3T7Ug" comment="" name="sqlWHERE" prompt="sqlWHERE?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_QpSOQFO4EeiS8esuz3T7Ug" comment="" name="sqlJOIN" prompt="sqlJOIN?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_u8Z8kFO6EeiS8esuz3T7Ug" comment="" name="sqlGROUPBY" prompt="sqlGROUPBY?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_u8Z8kVO6EeiS8esuz3T7Ug" comment="" name="sqlORDERBY" prompt="sqlORDERBY?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_u8Z8klO6EeiS8esuz3T7Ug" comment="" name="sqlLIMITS" prompt="sqlLIMITS?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
